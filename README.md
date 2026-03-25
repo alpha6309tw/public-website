@@ -32,7 +32,7 @@
 
 # 最新活動消息
 
-在新增文章之前，建議先閱讀 [常用 Markdown 語法說明](MARKDOWN.md) 以了解如何撰寫內容。
+在新增文章之前，建議先閱讀 [常用 Markdown 語法說明](/pages/markdown)（線上預覽網址：`/pages/markdown`）以了解如何撰寫內容。
 
 ## 如何新增消息 (使用 GitHub 網頁介面)
 
