@@ -2,8 +2,6 @@
 - text: 關於我們
   url: "/pages/關於我們"
   submenu:
-    - text: 事工團隊
-      url: "/pages/團隊"
     - text: 新聞報導
       url: "/pages/新聞報導"
 - text: 出版品
